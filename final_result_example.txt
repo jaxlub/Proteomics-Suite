@@ -1,5 +1,4 @@
-line_number	checked	annotated_sequence	modifications	modification_pattern	NCBI_found_sequence	UP_found_sequence	master_protein_accessions	position	modifications_in_MP	abundance_ratio	abundance_ratioP	abundance_ratioAP	xcorr
-Line Number	Checked	Annotated Sequence	Modifications	Modification Pattern			Master Protein Accessions	Positions in Master Proteins	Modifications in Master Proteins	Abundance Ratio: (R) / (M)	Abundance Ratio P-Value: (R) / (M)	Abundance Ratio Adj. P-Value: (R) / (M)	XCorr (by Search Engine): Sequest HT
+Line Number	Checked	Annotated Sequence	Modifications	Modification Pattern    NCBI_found_sequence	UP_found_sequence   Master Protein Accessions	Positions in Master Proteins	Modifications in Master Proteins	Abundance Ratio: (R) / (M)	Abundance Ratio P-Value: (R) / (M)	Abundance Ratio Adj. P-Value: (R) / (M)	XCorr (by Search Engine): Sequest HT
 1	FALSE	[R].NQGGYGGSSSSSSYGSGR.[R]	1xTMT6plex [N-Term];1xPhospho [S8(99.1)]	*------*----------	NQGGYGGSSSSSSYG	NQGGYGGSSSSSSYG	P49312	P49312 [301-318]	P49312 1xPhospho [S308(99.1)]	24.736	0.045691427	0.098111569	4.04
 2	FALSE	[K].RFSLFGK.[K]	1xTMT6plex [K7];1xTMT6plex [N-Term];1xPhospho [S3(100)]	*-*---*	KDKEKRFSLFGKKK	KDKEKRFSLFGKKK	Q62261	Q62261 [2355-2361]	Q62261 1xPhospho [S2357(100)]	8.53	0.004689615	0.027635769	3.01
 3	FALSE	[K].GGTPAGSTRGSPTRPNPPVR.[N]	1xTMT6plex [N-Term];2xPhospho [S11(100); S/T]	positions not distinguishable		PAGSTRGSPTRPNPP	E9PWE8	E9PWE8 [625-644]	E9PWE8 2xPhospho [S635(100); S/T]	8.253	0.003391662	0.023854797	4.15
@@ -8055,4 +8054,15 @@ Line Number	Checked	Annotated Sequence	Modifications	Modification Pattern			Mast
 7377	FALSE	[K].EGSVSPK.[E]	1xTMT6plex [K7];1xTMT6plex [N-Term];1xPhospho [S3(100)]	*-*---*	RAVVKEGSVSPKEDG	RAVVKEGSVSPKEDG	Q8C0L0	Q8C0L0 [300-306]	Q8C0L0 1xPhospho [S302(100)]	1.037	0.999421748	0.999557226	1.86
 7378	FALSE	[R].SPTSTNSSVHTGSDVEQDPEKK.[A]	2xTMT6plex [K21; K22];1xTMT6plex [N-Term];2xPhospho [S1(99.9); S13(98.8)]	*-----------*-------**		SLSDMPRSPTSTNSS	A2A484	A2A484 [436-457]	A2A484 1xPhospho [S436(99.9)]	1.122	0.999959288	0.999959288	4.08
 7378	FALSE	[R].SPTSTNSSVHTGSDVEQDPEKK.[A]	2xTMT6plex [K21; K22];1xTMT6plex [N-Term];2xPhospho [S1(99.9); S13(98.8)]	*-----------*-------**		NSSVHTGSDVEQDPE	A2A484	A2A484 [436-457]	A2A484 1xPhospho [S448(98.8)]	1.122	0.999959288	0.999959288	4.08
-													
+
+	
+	
+	
+	
+			
+	
+	
+	
+	
+	
+	
